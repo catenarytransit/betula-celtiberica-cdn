@@ -1,0 +1,26 @@
+name: Update Data
+on:
+  schedule:
+      - cron: '0 0,12 * * *'
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    permissions:
+      # Give the default GITHUB_TOKEN write permission to commit and push the
+      # added or changed files to the repository.
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      # Other steps that change files in the repository
+
+      - name: Update files
+        run: |
+          curl -o data/chateaus.json -f https://birch.catenarymaps.org/getchateaus
+          curl -o data/agencies.json -f https://birch.catenarymaps.org/get_agencies
+
+      # Commit all changed files back to the repository
+      - uses: stefanzweifel/git-auto-commit-action@v5
