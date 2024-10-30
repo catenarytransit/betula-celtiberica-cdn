@@ -25,6 +25,7 @@ jobs:
 
       - name: Download data & Update files
         run: |
+          mkdir -p data
           curl -o data/chateaus.json -f https://birch.catenarymaps.org/getchateaus
           curl -o data/agencies.json -f https://birch.catenarymaps.org/get_agencies
 
