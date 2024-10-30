@@ -24,6 +24,7 @@ jobs:
           echo $ls
 
       - name: Download data & Update files
+        run: |
           curl -o data/chateaus.json -f https://birch.catenarymaps.org/getchateaus
           curl -o data/agencies.json -f https://birch.catenarymaps.org/get_agencies
 
