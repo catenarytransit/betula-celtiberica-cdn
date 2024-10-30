@@ -17,8 +17,13 @@ jobs:
 
       # Other steps that change files in the repository
 
-      - name: Update files
+      - name: Debug
         run: |
+          echo "Current directory:"
+          echo $pwd
+          echo $ls
+
+      - name: Download data & Update files
           curl -o data/chateaus.json -f https://birch.catenarymaps.org/getchateaus
           curl -o data/agencies.json -f https://birch.catenarymaps.org/get_agencies
 
