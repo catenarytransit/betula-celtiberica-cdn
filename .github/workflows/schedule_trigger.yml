@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: '0 0,12 * * *'
 
+permissions:
+  contents: write
+
 jobs:
   call-update:
     uses: ./.github/workflows/update.yml
