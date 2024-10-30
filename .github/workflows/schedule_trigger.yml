@@ -1,0 +1,9 @@
+name: Update Scheduled
+
+on:
+  schedule:
+    - cron: '0 0,12 * * *'
+
+jobs:
+  call-update:
+    uses: ./.github/workflows/update.yml
