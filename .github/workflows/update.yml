@@ -30,10 +30,11 @@ jobs:
           mkdir -p data
           curl -o data/chateaus.json -f https://birch.catenarymaps.org/getchateaus
           curl -o data/agencies.json -f https://birch.catenarymaps.org/get_agencies
+          bun chateaus_simp.js
 
       - name: Update Germany files
         run: |
-          bun ftch_tlms.json
+          bun fetch_tlms.js
 
       # Commit all changed files back to the repository
       - uses: stefanzweifel/git-auto-commit-action@v5
