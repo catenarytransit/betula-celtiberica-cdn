@@ -15,6 +15,7 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
+      - uses: oven-sh/setup-bun@v2
 
       # Other steps that change files in the repository
 
@@ -29,6 +30,10 @@ jobs:
           mkdir -p data
           curl -o data/chateaus.json -f https://birch.catenarymaps.org/getchateaus
           curl -o data/agencies.json -f https://birch.catenarymaps.org/get_agencies
+
+      - name: Update Germany files
+        run: |
+          bun ftch_tlms.json
 
       # Commit all changed files back to the repository
       - uses: stefanzweifel/git-auto-commit-action@v5
