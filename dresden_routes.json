@@ -1,10 +1,78 @@
 [
   {
-    "route_id": "2045",
-    "short_name": "DPN"
+    "route_id": "1696",
+    "short_name": "RB47"
   },
   {
-    "route_id": "4405",
-    "short_name": "Str"
+    "route_id": "1864",
+    "short_name": "RB48"
+  },
+  {
+    "route_id": "1979",
+    "short_name": "RB40"
+  },
+  {
+    "route_id": "3166",
+    "short_name": "RB41"
+  },
+  {
+    "route_id": "3464",
+    "short_name": "RB32"
+  },
+  {
+    "route_id": "3755",
+    "short_name": "RB32"
+  },
+  {
+    "route_id": "5484",
+    "short_name": "RB48"
+  },
+  {
+    "route_id": "7011",
+    "short_name": "RE4"
+  },
+  {
+    "route_id": "7614",
+    "short_name": "RB59"
+  },
+  {
+    "route_id": "9467",
+    "short_name": "RB52"
+  },
+  {
+    "route_id": "10655",
+    "short_name": "RB46"
+  },
+  {
+    "route_id": "11347",
+    "short_name": "RB40"
+  },
+  {
+    "route_id": "12259",
+    "short_name": "RB42"
+  },
+  {
+    "route_id": "16725",
+    "short_name": "RB46"
+  },
+  {
+    "route_id": "17172",
+    "short_name": "RB49"
+  },
+  {
+    "route_id": "20003",
+    "short_name": "RB44"
+  },
+  {
+    "route_id": "20199",
+    "short_name": "RB45"
+  },
+  {
+    "route_id": "21364",
+    "short_name": "RB59"
+  },
+  {
+    "route_id": "23353",
+    "short_name": "RB44"
   }
 ]
