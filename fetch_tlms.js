@@ -1,9 +1,16 @@
 const fs = require("fs");
 
-fetch("https://birch.catenarymaps.org/getroutesofchateau/deutschland")
+//Verkehrsverbund Oberelbe
+
+fetch("https://birch.catenarymaps.org/get_agencies_for_chateau?chateau=deutschland")
+.then((response) => response.json())
+ .then((data) => {
+        let agency_id = data.filter((a) => a.agency_name == "Verkehrsverbund Oberelbe")[0];
+
+         fetch("https://birch.catenarymaps.org/getroutesofchateau/deutschland")
     .then((response) => response.json())
     .then((data) => {
-        let results = data.filter((r) => r.agency_id === "254").map((x) => {return {route_id: x.route_id, short_name: x.short_name}}).sort((a, b) => a.route_id - b.route_id);
+        let results = data.filter((r) => r.agency_id === agency_id).map((x) => {return {route_id: x.route_id, short_name: x.short_name}}).sort((a, b) => a.route_id - b.route_id);
 
         fs.writeFile("dresden_routes.json", JSON.stringify(results, null, 2), (err) => {
             if (err) {
@@ -16,3 +23,5 @@ fetch("https://birch.catenarymaps.org/getroutesofchateau/deutschland")
     .catch((error) => {
         console.error("Fetch error:", error);
     });
+    })
+
