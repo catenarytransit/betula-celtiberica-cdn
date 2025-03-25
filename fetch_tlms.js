@@ -5,7 +5,7 @@ const fs = require("fs");
 fetch("https://birch.catenarymaps.org/get_agencies_for_chateau?chateau=deutschland")
 .then((response) => response.json())
  .then((data) => {
-        let agency_id = data.filter((a) => a.agency_name == "Verkehrsverbund Oberelbe")[0].agency_id;
+        let agency_id = data.filter((a) => a.agency_name == "DVB-Straßenbahn")[0].agency_id;
 
          fetch("https://birch.catenarymaps.org/getroutesofchateau/deutschland")
     .then((response) => response.json())
