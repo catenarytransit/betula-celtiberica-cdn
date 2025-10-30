@@ -104,12 +104,44 @@
     "short_name": "11"
   },
   {
-    "route_id": "de:vvo:11-9_0",
-    "short_name": "9"
+    "route_id": "de:vvo:11-1_0::1",
+    "short_name": "1"
+  },
+  {
+    "route_id": "de:vvo:11-8_0::1",
+    "short_name": "8"
+  },
+  {
+    "route_id": "de:vvo:11-7_0",
+    "short_name": "7"
+  },
+  {
+    "route_id": "de:vvo:11-4_0::1",
+    "short_name": "4"
+  },
+  {
+    "route_id": "de:vvo:11-10_0::1",
+    "short_name": "10"
+  },
+  {
+    "route_id": "de:vvo:11-4_0",
+    "short_name": "4"
+  },
+  {
+    "route_id": "de:vvo:11-11_0",
+    "short_name": "11"
   },
   {
     "route_id": "de:vvo:11-9_0::1",
     "short_name": "9"
+  },
+  {
+    "route_id": "de:vvo:11-6_0::1",
+    "short_name": "6"
+  },
+  {
+    "route_id": "de:vvo:11-2_0::1",
+    "short_name": "2"
   },
   {
     "route_id": "de:vvo:11-1_0",
@@ -120,56 +152,8 @@
     "short_name": "8"
   },
   {
-    "route_id": "de:vvo:11-11_0",
+    "route_id": "de:vvo:11-11_0::1",
     "short_name": "11"
-  },
-  {
-    "route_id": "de:vvo:11-6_0",
-    "short_name": "6"
-  },
-  {
-    "route_id": "de:vvo:11-12_0",
-    "short_name": "12"
-  },
-  {
-    "route_id": "de:vvo:11-6_0::1",
-    "short_name": "6"
-  },
-  {
-    "route_id": "de:vvo:11-10_0",
-    "short_name": "10"
-  },
-  {
-    "route_id": "de:vvo:11-4_0::1",
-    "short_name": "4"
-  },
-  {
-    "route_id": "de:vvo:11-8_0::1",
-    "short_name": "8"
-  },
-  {
-    "route_id": "de:vvo:11-2_0::1",
-    "short_name": "2"
-  },
-  {
-    "route_id": "de:vvo:11-13_0::1",
-    "short_name": "13"
-  },
-  {
-    "route_id": "de:vvo:11-10_0::1",
-    "short_name": "10"
-  },
-  {
-    "route_id": "de:vvo:11-3_0::1",
-    "short_name": "3"
-  },
-  {
-    "route_id": "de:vvo:11-4_0",
-    "short_name": "4"
-  },
-  {
-    "route_id": "de:vvo:11-13_0",
-    "short_name": "13"
   },
   {
     "route_id": "de:vvo:11-3_0",
@@ -180,19 +164,35 @@
     "short_name": "7"
   },
   {
-    "route_id": "de:vvo:11-1_0::1",
-    "short_name": "1"
+    "route_id": "de:vvo:11-6_0",
+    "short_name": "6"
   },
   {
-    "route_id": "de:vvo:11-7_0",
-    "short_name": "7"
+    "route_id": "de:vvo:11-10_0",
+    "short_name": "10"
   },
   {
-    "route_id": "de:vvo:11-11_0::1",
-    "short_name": "11"
+    "route_id": "de:vvo:11-9_0",
+    "short_name": "9"
+  },
+  {
+    "route_id": "de:vvo:11-12_0",
+    "short_name": "12"
+  },
+  {
+    "route_id": "de:vvo:11-13_0",
+    "short_name": "13"
+  },
+  {
+    "route_id": "de:vvo:11-13_0::1",
+    "short_name": "13"
   },
   {
     "route_id": "de:vvo:11-2_0",
     "short_name": "2"
+  },
+  {
+    "route_id": "de:vvo:11-3_0::1",
+    "short_name": "3"
   }
 ]
