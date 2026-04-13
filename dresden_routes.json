@@ -52,6 +52,50 @@
     "short_name": "alita 92"
   },
   {
+    "route_id": "de:vvo:21-570_700",
+    "short_name": "alita 70"
+  },
+  {
+    "route_id": "de:vvo:21-90_3",
+    "short_name": "90"
+  },
+  {
+    "route_id": "de:vvo:21-508_700",
+    "short_name": "alita 8"
+  },
+  {
+    "route_id": "de:vvo:21-566_700",
+    "short_name": "alita 66"
+  },
+  {
+    "route_id": "de:vvo:21-589_700",
+    "short_name": "alita 89"
+  },
+  {
+    "route_id": "de:vvo:21-572_700",
+    "short_name": "alita 72"
+  },
+  {
+    "route_id": "de:vvo:21-92_3",
+    "short_name": "92"
+  },
+  {
+    "route_id": "de:vvo:21-584_700",
+    "short_name": "alita 84"
+  },
+  {
+    "route_id": "de:vvo:21-65_3",
+    "short_name": "65"
+  },
+  {
+    "route_id": "de:vvo:21-583_700",
+    "short_name": "alita 83"
+  },
+  {
+    "route_id": "de:vvo:21-77_3",
+    "short_name": "77"
+  },
+  {
     "route_id": "de:vvo:21-64_3",
     "short_name": "64"
   },
@@ -68,8 +112,32 @@
     "short_name": "84"
   },
   {
+    "route_id": "de:vvo:21-70_3",
+    "short_name": "70"
+  },
+  {
+    "route_id": "de:vvo:21-87_3",
+    "short_name": "87"
+  },
+  {
+    "route_id": "de:vvo:21-62_3",
+    "short_name": "62"
+  },
+  {
+    "route_id": "de:vvo:21-84_3",
+    "short_name": "84"
+  },
+  {
     "route_id": "de:vvo:11-6:EV6_3",
     "short_name": "EV 4/6"
+  },
+  {
+    "route_id": "de:vvo:21-574_700",
+    "short_name": "alita 74"
+  },
+  {
+    "route_id": "de:vvo:21-89_3",
+    "short_name": "89"
   },
   {
     "route_id": "de:vvo:11-12:EV12_3",
@@ -106,6 +174,10 @@
   {
     "route_id": "de:vvo:21-80_3",
     "short_name": "80"
+  },
+  {
+    "route_id": "de:vvo:21-68_3",
+    "short_name": "68"
   },
   {
     "route_id": "de:vvo:21-70_3",
@@ -168,6 +240,26 @@
     "short_name": "79"
   },
   {
+    "route_id": "de:vvo:21-79_3",
+    "short_name": "79"
+  },
+  {
+    "route_id": "de:vvo:11-6:EV6_3",
+    "short_name": "EV 4/6"
+  },
+  {
+    "route_id": "de:vvo:21-64_3",
+    "short_name": "64"
+  },
+  {
+    "route_id": "de:vvo:21-565_700",
+    "short_name": "alita 65"
+  },
+  {
+    "route_id": "de:vvo:21-66_3",
+    "short_name": "66"
+  },
+  {
     "route_id": "de:vvo:21-595_700",
     "short_name": "alita 95"
   },
@@ -186,5 +278,101 @@
   {
     "route_id": "de:vvo:21-576_700",
     "short_name": "alita 76"
+  },
+  {
+    "route_id": "de:vvo:21-588_700",
+    "short_name": "alita 88"
+  },
+  {
+    "route_id": "de:vvo:21-78_3",
+    "short_name": "78"
+  },
+  {
+    "route_id": "de:vvo:21-597_700",
+    "short_name": "alita 97"
+  },
+  {
+    "route_id": "de:vvo:21-595_700",
+    "short_name": "alita 95"
+  },
+  {
+    "route_id": "de:vvo:21-72_3",
+    "short_name": "72"
+  },
+  {
+    "route_id": "de:vvo:21-61_3",
+    "short_name": "61"
+  },
+  {
+    "route_id": "de:vvo:21-83_3",
+    "short_name": "83"
+  },
+  {
+    "route_id": "de:vvo:21-563_700",
+    "short_name": "alita 63"
+  },
+  {
+    "route_id": "de:vvo:21-86_3",
+    "short_name": "86"
+  },
+  {
+    "route_id": "de:vvo:11-12:EV12_3",
+    "short_name": "EV 12"
+  },
+  {
+    "route_id": "de:vvo:21-592_700",
+    "short_name": "alita 92"
+  },
+  {
+    "route_id": "de:vvo:21-80_3",
+    "short_name": "80"
+  },
+  {
+    "route_id": "de:vvo:21-85_3",
+    "short_name": "85"
+  },
+  {
+    "route_id": "de:vvo:21-73_3",
+    "short_name": "73"
+  },
+  {
+    "route_id": "de:vvo:21-568_700",
+    "short_name": "alita 68"
+  },
+  {
+    "route_id": "de:vvo:21-577_700",
+    "short_name": "alita 77"
+  },
+  {
+    "route_id": "de:vvo:21-74_3",
+    "short_name": "74"
+  },
+  {
+    "route_id": "de:vvo:21-88_3",
+    "short_name": "88"
+  },
+  {
+    "route_id": "de:vvo:21-579_700",
+    "short_name": "alita 79"
+  },
+  {
+    "route_id": "de:vvo:21-576_700",
+    "short_name": "alita 76"
+  },
+  {
+    "route_id": "de:vvo:21-63_3",
+    "short_name": "63"
+  },
+  {
+    "route_id": "de:vvo:21-81_3",
+    "short_name": "81"
+  },
+  {
+    "route_id": "de:vvo:21-581_700",
+    "short_name": "alita 81"
+  },
+  {
+    "route_id": "de:vvo:21-573_700",
+    "short_name": "alita 73"
   }
 ]
