@@ -4,6 +4,22 @@
     "short_name": "12"
   },
   {
+    "route_id": "de:vvo:21-566_700",
+    "short_name": "alita 66"
+  },
+  {
+    "route_id": "de:vvo:21-89_3",
+    "short_name": "89"
+  },
+  {
+    "route_id": "7145702_700",
+    "short_name": "88"
+  },
+  {
+    "route_id": "de:vvo:21-86_3",
+    "short_name": "86"
+  },
+  {
     "route_id": "de:vvo:21-572_700",
     "short_name": "alita 72"
   },
@@ -26,18 +42,6 @@
   {
     "route_id": "de:vvo:21-583_700",
     "short_name": "alita 83"
-  },
-  {
-    "route_id": "de:vvo:21-566_700",
-    "short_name": "alita 66"
-  },
-  {
-    "route_id": "7145702_700",
-    "short_name": "88"
-  },
-  {
-    "route_id": "de:vvo:21-86_3",
-    "short_name": "86"
   },
   {
     "route_id": "de:vvo:21-85_3",
@@ -78,6 +82,18 @@
   {
     "route_id": "de:vvo:21-570_700",
     "short_name": "alita 70"
+  },
+  {
+    "route_id": "de:vvo:21-508_700",
+    "short_name": "alita 8"
+  },
+  {
+    "route_id": "de:vvo:21-90_3",
+    "short_name": "90"
+  },
+  {
+    "route_id": "de:vvo:21-79_3",
+    "short_name": "79"
   },
   {
     "route_id": "de:vvo:11-4_0",
@@ -124,6 +140,10 @@
     "short_name": "2"
   },
   {
+    "route_id": "de:vvo:21-584_700",
+    "short_name": "alita 84"
+  },
+  {
     "route_id": "de:vvo:21-66_3",
     "short_name": "66"
   },
@@ -142,26 +162,6 @@
   {
     "route_id": "de:vvo:21-574_700",
     "short_name": "alita 74"
-  },
-  {
-    "route_id": "de:vvo:21-584_700",
-    "short_name": "alita 84"
-  },
-  {
-    "route_id": "de:vvo:21-89_3",
-    "short_name": "89"
-  },
-  {
-    "route_id": "de:vvo:21-508_700",
-    "short_name": "alita 8"
-  },
-  {
-    "route_id": "de:vvo:21-90_3",
-    "short_name": "90"
-  },
-  {
-    "route_id": "de:vvo:21-79_3",
-    "short_name": "79"
   },
   {
     "route_id": "de:vvo:21-72_3",
