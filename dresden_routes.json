@@ -160,12 +160,12 @@
     "short_name": "alita 77"
   },
   {
-    "route_id": "de:vvo:11-6_0",
-    "short_name": "6"
-  },
-  {
     "route_id": "de:vvo:21-589_700",
     "short_name": "alita 89"
+  },
+  {
+    "route_id": "de:vvo:11-6_0",
+    "short_name": "6"
   },
   {
     "route_id": "de:vvo:11-13_0",
